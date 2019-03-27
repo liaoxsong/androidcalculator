@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorView</string>
+    <string name="key_multiply">×</string>
+    <string name="key_divide">÷</string>
+</resources>
